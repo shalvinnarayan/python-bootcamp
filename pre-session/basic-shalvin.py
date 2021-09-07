@@ -1,8 +1,6 @@
-'''
-Created By: Shalvin Narayan
-Email: shalvin.narayan@gmail.com
-Date: 30 August 2021
-'''
+#Created By: Shalvin Narayan
+#Email: shalvin.narayan@gmail.com
+#Date: 30 August 2021
 
 number = 6677 #integer
 
